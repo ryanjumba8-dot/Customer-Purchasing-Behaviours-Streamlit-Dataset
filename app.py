@@ -10,7 +10,7 @@ import plotly.express as px
 # ---------------------------
 st.set_page_config(page_title="Customer Behavior Dashboard", page_icon="📊", layout="wide")
 
-st.title("📊 Customer Purchasing Behavior Dashboard")
+st.title("Customer Purchasing Behavior Data Analysis Dashboard")
 st.write("Interactive analysis of customer purchasing patterns, loyalty, and income trends.")
 
 # ---------------------------
